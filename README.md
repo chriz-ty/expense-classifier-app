@@ -41,9 +41,7 @@ Bought a kurti from FabIndia`
 
 ## 🚀 Try the App Live
 
-👉 **Hosted here**: [smart-expense-classifier.streamlit.app](https://your-deployed-url.streamlit.app)
-
-> (Replace this with your actual deployed link)
+👉 **Hosted here**: [smart-expense-classifier.streamlit.app](https://expense-classifier-app-bcxkybcuceyxv5zpreuwnu.streamlit.app/)
 
 ---
 
