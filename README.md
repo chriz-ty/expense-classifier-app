@@ -105,10 +105,10 @@ expense-classifier-app/
 I wanted to work on a beginner-friendly real-world project that uses NLP and machine learning — something practical like tracking daily expenses and automatically classifying them. This helped me understand model training, preprocessing, and deployment in a hands-on way.
 
 ## 🧑‍💻 Built With
-Streamlit
-scikit-learn
-pandas  
-sentence-transformers
+- Streamlit
+- scikit-learn
+- pandas  
+- sentence-transformers
 
 ## Contact
 Christy Maria Sebastian <br>
