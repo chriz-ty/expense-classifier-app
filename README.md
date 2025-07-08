@@ -1,7 +1,7 @@
 # 💸 Smart Expense Classifier
 
 This is a **simple and smart app** that helps you **automatically identify what category your expense belongs to**, like `Food`, `Medical`, `Shopping`, etc. You can either type in your expense (like "Ordered dinner from Swiggy") or upload a list of expenses using a CSV file — and the app will tell you what each one is related to.
-
+<br>
 This project uses **Machine Learning and Natural Language Processing (NLP)** to make predictions. It was built with Python and Streamlit.
 
 ---
@@ -14,8 +14,8 @@ This project uses **Machine Learning and Natural Language Processing (NLP)** to 
 
 - Or upload a CSV file with many expenses like:  
 `text
-Ordered pizza from Domino's
-Booked movie tickets
+Ordered pizza from Domino's <br>
+Booked movie tickets <br>
 Bought a kurti from FabIndia`
 
 
@@ -106,6 +106,6 @@ pandas
 sentence-transformers
 
 ## Contact
-Christy Maria Sebastian
+Christy Maria Sebastian <br>
 LinkedIn: https://www.linkedin.com/in/christymariasebastian/
   
