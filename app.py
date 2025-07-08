@@ -3,6 +3,7 @@ import joblib
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
+from sentence_transformers import SentenceTransformer
 
 # -------------------------
 st.set_page_config(page_title="Expense Classifier", layout="centered")
@@ -10,7 +11,7 @@ st.set_page_config(page_title="Expense Classifier", layout="centered")
 @st.cache_resource
 def load_model():
     model = joblib.load("model.pkl")
-    embedder = joblib.load("embedder.pkl")
+    embedder = SentenceTransformer("embedder/")
     return model, embedder
 
 model, embedder = load_model()
