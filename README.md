@@ -33,9 +33,14 @@ Bought a kurti from FabIndia`
 
 ---
 
-## 📸 Screenshot
+## 📸 Video & Screenshots
 
-![App Screenshot](link-to-screenshot-if-you-have-one)
+![video](
+
+https://github.com/user-attachments/assets/cf65e837-817b-4c6a-af54-008403e8319a
+
+)
+![App Screenshot](https://github.com/user-attachments/assets/fa27cfed-dfc3-4989-bdc3-13b0a1c17444)
 
 ---
 
