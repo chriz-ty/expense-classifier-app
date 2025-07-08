@@ -14,8 +14,8 @@ This project uses **Machine Learning and Natural Language Processing (NLP)** to 
 
 - Or upload a CSV file with many expenses like:  
 `text
-Ordered pizza from Domino's <br>
-Booked movie tickets <br>
+Ordered pizza from Domino's,
+Booked movie tickets,
 Bought a kurti from FabIndia`
 
 
