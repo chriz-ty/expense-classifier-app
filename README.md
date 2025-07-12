@@ -1,4 +1,4 @@
-# 💸 Smart Expense Classifier
+# Smart Expense Classifier
 
 This is a **simple and smart app** that helps you **automatically identify what category your expense belongs to**, like `Food`, `Medical`, `Shopping`, etc. You can either type in your expense (like "Ordered dinner from Swiggy") or upload a list of expenses using a CSV file — and the app will tell you what each one is related to.
 <br>
@@ -6,7 +6,7 @@ This project uses **Machine Learning and Natural Language Processing (NLP)** to 
 
 ---
 
-## 🧠 What It Does
+## What It Does
 
 - You type in a sentence like:  
   `Paid 250 for electricity bill`  
@@ -23,17 +23,17 @@ Bought a kurti from FabIndia`
 
 ---
 
-## 🌟 Features
+## Features
 
-- ✅ Manual input prediction
-- 📤 Upload CSV file and get batch predictions
-- 📈 Shows a pie chart of expense categories (when uploading CSV)
-- 💾 Download the results as a CSV
-- 🚫 Shows a warning if the model is unsure (low confidence)
+-  Manual input prediction
+-  Upload CSV file and get batch predictions
+-  Shows a pie chart of expense categories (when uploading CSV)
+-  Download the results as a CSV
+-  Shows a warning if the model is unsure (low confidence)
 
 ---
 
-## 📸 Video & Screenshots
+## Video & Screenshots
 
 ![video](
 
@@ -44,13 +44,13 @@ https://github.com/user-attachments/assets/cf65e837-817b-4c6a-af54-008403e8319a
 
 ---
 
-## 🚀 Try the App Live
+##  Try the App Live
 
 👉 **Hosted here**: [smart-expense-classifier.streamlit.app](https://expense-classifier-app-bcxkybcuceyxv5zpreuwnu.streamlit.app/)
 
 ---
 
-## 🛠 How It Works (In Simple Terms)
+##  How It Works (In Simple Terms)
 
 1. **Model Training**  
  The app uses a pre-trained machine learning model. It was trained on a dataset of different kinds of expenses and their categories.
@@ -66,15 +66,15 @@ https://github.com/user-attachments/assets/cf65e837-817b-4c6a-af54-008403e8319a
 
 ---
 
-## 📦 How to Run the App Locally
+## How to Run the App Locally
 
-### 🔧 Prerequisites
+### Prerequisites
 
 - Python 3.8+
 - Git (optional)
 - pip
 
-### 🧪 Setup Steps
+### Setup Steps
 
 1. Clone this repo:
  ```
@@ -104,7 +104,7 @@ expense-classifier-app/
 ## Why I built this
 I wanted to work on a beginner-friendly real-world project that uses NLP and machine learning — something practical like tracking daily expenses and automatically classifying them. This helped me understand model training, preprocessing, and deployment in a hands-on way.
 
-## 🧑‍💻 Built With
+## Built With
 - Streamlit
 - scikit-learn
 - pandas  
