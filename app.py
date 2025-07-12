@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 from sentence_transformers import SentenceTransformer
 
 # -------------------------
-st.set_page_config(page_title="Expense Classifier", layout="centered")
+st.set_page_config(page_title="Expense Classifier", layout="wide")
 
 @st.cache_resource
 def load_model():
